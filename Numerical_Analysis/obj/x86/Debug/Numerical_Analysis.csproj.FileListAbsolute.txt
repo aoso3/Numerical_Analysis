@@ -1,0 +1,35 @@
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe.config
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.pdb
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csprojResolveAssemblyReference.cache
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.Properties.Resources.resources
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csproj.GenerateResource.Cache
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.exe
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.pdb
+c:\users\usama\documents\visual studio 2013\Projects\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\WindowsFormsApplication1.Analysis.resources
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe.config
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.exe
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.pdb
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\WindowsFormsApplication1.Analysis.resources
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.Properties.Resources.resources
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csproj.GenerateResource.Cache
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.pdb
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\bin\Debug\af\Numerical_Analysis.resources.dll
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\WindowsFormsApplication1.Analysis.af.resources
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\af\Numerical_Analysis.resources.dll
+C:\Users\Usama\Desktop\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.About.resources
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe.config
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.exe
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.pdb
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.exe
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\bin\Debug\Numerical_Analysis.pdb
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\bin\Debug\af\Numerical_Analysis.resources.dll
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csprojResolveAssemblyReference.cache
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.About.resources
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\WindowsFormsApplication1.Analysis.resources
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.Properties.Resources.resources
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\WindowsFormsApplication1.Analysis.af.resources
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\Numerical_Analysis.csproj.GenerateResource.Cache
+H:\ITE Projects\2-Second Year\Numerical Analysis\Numerical_Analysis\Numerical_Analysis\Numerical_Analysis\obj\x86\Debug\af\Numerical_Analysis.resources.dll
